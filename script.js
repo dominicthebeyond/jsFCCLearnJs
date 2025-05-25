@@ -1,12 +1,11 @@
-var ourArray = [["the universe", 42], ["everything", 101010]]
+// var myArr = [18, 65, 73]
 
-var myArray = [["Bulls", 23], ["Cavaliers", 23]]
+// myArr[0] = 45
 
+// console.log(myArr)
 
-var ourArray1 = [50, 60, 70]
-var ourData = ourArray1[0];
+var myArr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 
-var myArray1 = [50, 60, 70]
-var myData = myArray1[0];
+var myData = myArr[0][0];
 
 console.log(myData)
