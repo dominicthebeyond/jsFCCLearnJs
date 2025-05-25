@@ -1,11 +1,25 @@
-// var myArr = [18, 65, 73]
+// var myArr = [["John", 5], ["Caleb", 7], ["Jimmy", 9]]
 
-// myArr[0] = 45
+// myArr.push(["Johnny", 11]) // Adds items
 
 // console.log(myArr)
 
-var myArr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
+// var myArray = [["John", 23], ["cat", 2]]
 
-var myData = myArr[0][0];
+// var removedFromMyArr = myArray.pop()
 
-console.log(myData)
+// console.log(removedFromMyArr)
+// console.log(myArray)
+
+// var myArray = [["John", 23], ["dog", 3]]
+
+// var removedFromMyArr = myArray.shift()
+
+// console.log(removedFromMyArr)
+// console.log(myArray)
+
+// var myArray = ["Marvel", "StarWars", "Jessie"]
+// myArray.shift()
+// myArray.unshift("Minecraft Movie")
+
+// console.log(myArray)
